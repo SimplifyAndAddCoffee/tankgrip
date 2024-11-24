@@ -32,7 +32,7 @@ The texture is generated procedurally and intersected with the base pad shapes.
 
 ## Included Libraries
 
-- [bezier_v2.scad](https://github.com/openscad/openscad/blob/master/libraries/bezier_v2.scad): For generating bezier curves and polygons
+- [bezier_v2.scad](https://www.printables.com/model/263728-bezier-library-for-openscad): For generating bezier curves and polygons
 
 ## Printing
 
